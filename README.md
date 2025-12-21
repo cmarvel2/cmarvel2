@@ -9,7 +9,7 @@ Current focus: turning messy raw signals (telemetry + external datasets) into cl
 - **SQL reporting layers:** reusable queries/views for consistent engineering metrics and progress tracking
 - **Dashboards:** operational views that support decisions (progress, anomalies, schedule risk signals)
 
-## Skills (Proof-Backed)
+## Skills
 - **Languages:** Python, SQL  
 - **Databases:** PostgreSQL, SQLite  
 - **Reporting & Tools:** Power BI, Excel, Git/GitHub  
