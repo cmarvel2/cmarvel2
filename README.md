@@ -1,35 +1,23 @@
 # Corey Royster
-**Information Analysis | University of Michigan School of Information ’27**
+**Engineering Metrics & Reporting (SQL / Python) | University of Michigan (UMSI ’27)**
 
-I am an Information Analysis student-athlete focused on Analytics Engineering for Technical Teams.
+I build data pipelines and reporting layers that help technical teams track progress, surface risk, and standardize metrics.
+Current focus: turning messy raw signals (telemetry + external datasets) into clean, queryable tables that power reliable dashboards.
 
-My goal is to support silicon engineering teams by building the "metrics infrastructure" they need to track progress. I leverage SQL and Python to transform messy, raw datasets into clean, actionable insights that enable engineering teams to evaluate design quality and schedule risk.
+## What I Build
+- **Metrics pipelines:** ingestion → validation → normalization → append-only history for trend analysis
+- **SQL reporting layers:** reusable queries/views for consistent engineering metrics and progress tracking
+- **Dashboards:** operational views that support decisions (progress, anomalies, schedule risk signals)
 
----
+## Skills (Proof-Backed)
+- **Languages:** Python, SQL  
+- **Databases:** PostgreSQL, SQLite  
+- **Reporting & Tools:** Power BI, Excel, Git/GitHub  
 
-### Technical Competencies
-| Domain | Stack & Implementation |
-| :--- | :--- |
-| **Data Engineering (ETL)** | **Python**: ingestion (`requests`/JSON), transformation, incremental loading, deduplication logic. |
-| **Data Modeling & SQL** | **SQL (SQLite / PostgreSQL)**: normalized schemas, constraints, JOIN-based analytics and aggregation patterns. |
-| **Systems Telemetry** | Sensor/log ingestion → timestamped metrics for analysis (implemented via **Python + LibreHardwareMonitor / psutil**). |
-| **Visualization & Reporting** | **Matplotlib / Tableau**: KPI dashboards, trendlines, and status reporting. |
+## Leadership
+- Division 1 Sprinter (Michigan Track & Field); school record-holder (4x100m relay)
+- Co-President, Black Student Athlete Alliance: implemented inventory tracking to improve operational execution
 
-
----
-
-### Leadership & Drive
-- **High Performance:** Division 1 Sprinter (University of Michigan). School Record Holder (4x100m). I bring the same discipline to data quality and execution.
-- **Process Improvement:** Co-President, *Black Student Athlete Alliance*. Implemented centralized inventory tracking to improve operational organization.
-
----
-
-### Contact
-<p align="left">
-<a href="https://www.linkedin.com/in/corey-royster/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:cmarvel@umich.edu">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+## Contact
+- LinkedIn: https://www.linkedin.com/in/corey-royster/
+- Email: cmarvel@umich.edu
