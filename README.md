@@ -1,8 +1,8 @@
 # Corey Royster
 **Engineering Metrics & Reporting (SQL / Python) | University of Michigan (UMSI ’27)**
 
-I build data pipelines and reporting layers that help technical teams track progress, surface risk, and standardize metrics.
-Current focus: turning messy raw signals (telemetry + external datasets) into clean, queryable tables that power reliable dashboards.
+I build data pipelines and reporting layers that simulate helping technical teams track progress, surface risk, and standardize metrics.
+Current focus: turning messy raw signals (telemetry + external datasets) into clean, queryable tables that power visualizations.
 
 ## What I Build
 - **Metrics pipelines:** ingestion → validation → normalization → append-only history for trend analysis
