@@ -14,10 +14,6 @@ Current focus: turning messy raw signals (telemetry + external datasets) into cl
 - **Databases:** PostgreSQL, SQLite  
 - **Reporting & Tools:** Power BI, Excel, Git/GitHub  
 
-## Leadership
-- Division 1 Sprinter (Michigan Track & Field); school record-holder (4x100m relay)
-- Co-President, Black Student Athlete Alliance: implemented inventory tracking to improve operational execution
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/corey-royster/
 - Email: cmarvel@umich.edu
