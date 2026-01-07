@@ -12,7 +12,7 @@ Right now, my work centers on two things:
 ## What I Do
 
 ### Data Collection and Standardization  
-Capturing raw signals and converting them into predictable, comparable records. This includes defining consistent fields, handling missing or inconsistent values, and building snapshots that stay stable across repeated runs.
+Collecting and transforming raw data into predictable, comparable records. This includes defining consistent fields, handling missing or inconsistent values, and building snapshots that stay stable across repeated runs.
 
 ### Data Modeling and SQL Analysis  
 Designing schemas that support clean joins and trend analysis (dimension-style tables when it helps), then writing SQL that turns raw records into interpretable outputs.
