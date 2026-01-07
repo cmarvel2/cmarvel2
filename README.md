@@ -1,19 +1,31 @@
 # Corey Royster
-**Engineering Metrics & Reporting (SQL / Python) | University of Michigan (UMSI ’27)**
+Analytics Engineering (Python / SQL) | University of Michigan (UMSI ’27)
 
-Hello My name is Corey royster I enjoy building data pipelines and reporting layers that simulate helping technical teams track progress, surface risk, and standardize metrics.
-The current focus of my personal projects are turning messy raw signals (telemetry + external datasets) into clean, queryable tables that power visualizations.
+## Hello, I’m Corey Royster
 
-## What I Build
-- **Metrics pipelines:** ingestion → validation → normalization → append-only history for trend analysis
-- **SQL reporting layers:** reusable queries/views for consistent engineering metrics and progress tracking
-- **Dashboards:** operational views that support decisions (progress, anomalies, schedule risk signals)
+I’m an Information Analysis student with a strong interest in hardware-aware performance analysis, focused on how data can make technical work easier to track, explain, and improve. I like building systems that take noisy, inconsistent inputs and turn them into structured tables and clear views that help answer practical questions like: what changed, where risk is building, and what’s trending over time.
+
+Right now, my work centers on two things:
+1) collecting CPU/GPU/memory performance signals and shaping them into consistent snapshots, and  
+2) building repeatable ingestion workflows that support SQL analysis and reporting.
+
+## What I Do
+
+### Data Collection and Standardization  
+Capturing raw signals and converting them into predictable, comparable records. This includes defining consistent fields, handling missing or inconsistent values, and building snapshots that stay stable across repeated runs.
+
+### Data Modeling and SQL Analysis  
+Designing schemas that support clean joins and trend analysis (dimension-style tables when it helps), then writing SQL that turns raw records into interpretable outputs.
+
+### Reporting and Visualization  
+Producing views that communicate what’s happening clearly—either through dashboards (Power BI) or lightweight plotted summaries when the goal is quick validation and exploration.
 
 ## Skills
 - **Languages:** Python, SQL  
 - **Databases:** PostgreSQL, SQLite  
-- **Reporting & Tools:** Power BI, Excel, Git/GitHub  
+- **Tools:** Power BI, Excel, Tableau, Git/GitHub  
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/corey-royster/
-- Email: cmarvel@umich.edu
+## Get in Touch
+```text
+Email: cmarvel@umich.edu
+LinkedIn: linkedin.com/in/corey-royster
