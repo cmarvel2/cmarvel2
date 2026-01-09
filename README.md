@@ -5,10 +5,6 @@ Analytics Engineering (Python / SQL) | University of Michigan (UMSI ’27)
 
 I’m an Information Analysis student with a strong interest in hardware performance analysis, focused on how data can make technical work easier to track, explain, and improve. I like building systems that take noisy, inconsistent inputs and turn them into structured tables and clear views that help answer practical questions like: what changed, where risk is building, and what’s trending over time.
 
-Right now, my work centers on two things:
-1) collecting CPU/GPU/memory performance signals and shaping them into consistent snapshots, and  
-2) building repeatable ingestion workflows that support SQL analysis and reporting.
-
 ## What I Do
 
 ### Data Collection and Standardization  
