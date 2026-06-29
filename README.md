@@ -18,8 +18,8 @@ Producing views that communicate what’s happening clearly—either through das
 
 ## Skills
 - **Languages:** Python, SQL  
-- **Databases:** PostgreSQL, SQLite  
-- **Tools:** Power BI, Excel, Tableau, Git/GitHub  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Tools:** Power BI, dbt, Microsoft Azure, Git/GitHub  
 
 ## Get in Touch
 ```text
