@@ -3,18 +3,11 @@ Analytics Engineering (Python / SQL) | University of Michigan (UMSI ’27)
 
 ## Hello, I’m Corey Royster
 
-I’m an Information Analysis student with a strong interest in hardware performance analysis, focused on how data can make technical work easier to track, explain, and improve. I like building systems that take noisy, inconsistent inputs and turn them into structured tables and clear views that help answer practical questions like: what changed, where risk is building, and what’s trending over time.
+I'm a senior studying Information Analysis at the University of Michigan with a strong interest in data engineering/analytics. My coursework and personal projects revolves around building ETL/ELT pipelines that pull raw data into databases, transforming it with tools like Python and dbt, and turning it into clean outputs such as visualizations with matplotlib and Power BI.
 
-## What I Do
+I'm currently deepening my skills in cloud platforms like Azure along with exploring orchestration and modern data stack tools like Databricks. I genuinely enjoy learning, whether that means adding new tools to my stack, rebuilding a project after hitting a design flaw, or figuring out how a tool fits into a larger pipeline.
 
-### Data Collection and Standardization  
-Collecting and transforming raw data into predictable, comparable records. This includes defining consistent fields, handling missing or inconsistent values, and building snapshots that stay stable across repeated runs.
-
-### Data Modeling and SQL Analysis  
-Designing schemas that support clean joins and trend analysis (dimension-style tables when it helps), then writing SQL that turns raw records into interpretable outputs.
-
-### Reporting and Visualization  
-Producing views that communicate what’s happening clearly—either through dashboards (Power BI) or lightweight plotted summaries when the goal is quick validation and exploration.
+Alongside my technical projects, I hold leadership roles in two student organizations and compete as a varsity athlete on the University of Michigan's Men's track team, where I've learned a lot about collaboration and adaptability. I'm looking to bring that same mindset into a role where I can keep building and learning!
 
 ## Skills
 - **Languages:** Python, SQL  
